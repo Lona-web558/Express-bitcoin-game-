@@ -243,4 +243,4 @@ This project is provided for educational purposes. If you plan to offer real Bit
 
 ## Author
 
-Developed by Lona Smith using Node.js, Express.js, MongoDB, Bootstrap 5, HTML5, CSS3, and Javascript in the Republic of South Africa. 
+Developed by Lona Matshingana using Node.js, Express.js, MongoDB, Bootstrap 5, HTML5, CSS3, and Javascript in the Republic of South Africa. 
