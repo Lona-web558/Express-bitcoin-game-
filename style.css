@@ -1,0 +1,25 @@
+body{
+
+background:#0d1117;
+
+color:white;
+
+font-family:Arial;
+
+}
+
+h1{
+
+font-weight:bold;
+
+margin-top:40px;
+
+}
+
+.btn-success{
+
+padding:15px 40px;
+
+font-size:22px;
+
+}
