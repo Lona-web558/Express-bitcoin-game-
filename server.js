@@ -8,8 +8,8 @@ const cookieParser = require("cookie-parser");
 const app = express();
 
 // Views (flat structure - all .ejs files live in the project root)
-app.set("views", __dirname);
-app.set("view engine", "ejs");
+app.set(__dirname);
+app.set("ejs");
 
 // Core middleware - must come BEFORE routes that read req.body / req.cookies
 app.use(express.urlencoded({ extended: true }));
